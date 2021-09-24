@@ -2,10 +2,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h>Hello world!</h>
-    </div>
-  );
+    <Greetings />
+  )
 }
 
 export default App;
